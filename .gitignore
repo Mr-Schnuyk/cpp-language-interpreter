@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.sdf
+*.opendb
+*.VC.db
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+
+# Временные файлы
+*.tmp
+*.log
